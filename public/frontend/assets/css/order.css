@@ -1,0 +1,215 @@
+.myOrders table {
+    width: 100%
+}
+
+.myOrders table thead tr th {
+    padding: 5px 15px;
+    line-height: 22px;
+    background: #f3f3f3;
+    font-family: "Sweet Sans Medium", "Arial", sans-serif
+}
+
+.myOrders table tbody tr {
+    border: 1px solid #dadada
+}
+
+.myOrders table tbody tr.detailInfo {
+    display: none;
+    border-top: 0 none
+}
+
+.myOrders table tbody tr.detailInfo td {
+    padding-left: 0;
+    padding-right: 0
+}
+
+.myOrders table tbody tr .showMode, .myOrders table tbody tr .hideMode {
+    font-family: "Sweet Sans Medium", "Arial", sans-serif;
+    text-decoration: underline;
+    color: #6e6e6e;
+    cursor: pointer;
+    text-align: right
+}
+
+.myOrders table tbody tr .showMode:hover, .myOrders table tbody tr .hideMode:hover {
+    color: #373737
+}
+
+.myOrders table tbody tr .showMode {
+    display: none
+}
+
+.myOrders table tbody tr .hideMode {
+    display: block
+}
+
+.myOrders table tbody tr.activeInfo {
+    border-bottom: 0 none
+}
+
+.myOrders table tbody tr.activeInfo .showMode {
+    display: block
+}
+
+.myOrders table tbody tr.activeInfo .hideMode {
+    display: none
+}
+
+.myOrders table tbody tr.spacer {
+    height: 5px;
+    border: 0 none
+}
+
+.myOrders table tbody tr > td {
+    padding: 5px 15px;
+    line-height: 22px
+}
+
+.myOrders table tbody tr > td .entypo {
+    font-size: 36px;
+    line-height: 4px;
+    vertical-align: text-top;
+    margin-right: 3px
+}
+
+.myOrders table tbody tr > td > .col-xs-4 {
+    border-right: 1px solid #dadada;
+    margin-top: 20px;
+    margin-bottom: 37px
+}
+
+.myOrders table tbody tr > td > .col-xs-4:last-child {
+    border-right: 0 none
+}
+
+.myOrders table tbody tr > td > .col-xs-4 .orderSummary {
+    position: relative
+}
+
+.myOrders table tbody tr > td > .col-xs-4 .orderSummary .summaryWrapper {
+    border: 0 none
+}
+
+.myOrders table tbody tr > td > .col-xs-4 .orderSummary .summaryWrapper .itemList li {
+    padding-left: 0;
+    padding-right: 0;
+    margin-left: 19px;
+    position: relative
+}
+
+.myOrders table tbody tr > td > .col-xs-4 .orderSummary .summaryWrapper .itemList li:last-child {
+    border-bottom: 0
+}
+
+.myOrders table tbody tr > td > .col-xs-4 .orderSummary .summaryWrapper .itemList li .itemDesc {
+    width: 90px
+}
+
+.myOrders table tbody tr > td > .col-xs-4 .orderSummary .summaryWrapper .itemList li .checkbox2 {
+    position: absolute;
+    top: 50%;
+    left: -19px;
+    margin-top: -10px
+}
+
+.myOrders table tbody tr > td > .col-xs-4 .orderSummary .summaryWrapper .itemList li .checkbox2 label {
+    padding-left: 16px
+}
+
+.myOrders table tbody tr > td > .col-xs-4 .orderSummary .summaryWrapper button {
+    position: absolute;
+    bottom: -30px;
+    background: none;
+    border: 0 none;
+    color: #6e6e6e;
+    text-decoration: underline
+}
+
+.myOrders table tbody tr > td > .col-xs-4 .orderSummary .summaryWrapper button .entypo {
+    font-size: 36px;
+    line-height: 4px;
+    vertical-align: text-top;
+    margin-right: 3px
+}
+
+.myOrders table tbody tr > td > .col-xs-4 .orderSummary .summaryWrapper button:hover {
+    color: #373737
+}
+
+.myOrders table tbody tr > td > .col-xs-4 .orderTotal table.totalTable tr {
+    border: 0 none
+}
+
+.myOrders table tbody tr > td > .col-xs-4 .orderTotal table.totalTable tr td {
+    padding: 5px 15px
+}
+
+.myOrders table tbody tr > td > .col-xs-4 .orderTotal table.totalTable tr td:last-child {
+    text-align: right
+}
+
+.myOrders table tbody tr > td > .col-xs-4 .orderTotal table.totalTable tr:last-child td {
+    background: #f3f3f3;
+    font-size: 18px
+}
+
+.myOrders table tbody tr > td > .col-xs-4 .orderTotal table.totalTable tr:last-child td b {
+    font-family: "Sweet Sans Medium", "Arial", sans-serif;
+    font-weight: 400
+}
+
+.myOrders table tbody tr > td > .col-xs-4 .orderTotal table.creditCardTable {
+    margin: 15px 0 0
+}
+
+.myOrders table tbody tr > td > .col-xs-4 .orderTotal table.creditCardTable tr {
+    border: 0 none
+}
+
+.myOrders table tbody tr > td > .col-xs-4 .orderTotal table.creditCardTable tr td {
+    padding: 0 15px
+}
+
+.myOrders table tbody tr > td > .col-xs-4 .orderTotal table.creditCardTable tr td:last-child {
+    float: right
+}
+
+.myOrders table tbody tr > td > .col-xs-4 .myOrdersAddress h5 {
+    font-family: "Sweet Sans Medium", "Arial", sans-serif;
+    font-size: 14px;
+    text-transform: uppercase;
+    margin: 0 0 20px
+}
+
+.myOrders table tbody tr > td > .col-xs-4 .myOrdersAddress .delAddress {
+    margin: 0 0 25px
+}
+
+.myOrders table tbody tr > td > .col-xs-4 .myOrdersAddress p {
+    margin: 0
+}
+
+.myOrders table tbody tr > td > .col-xs-4 .myOrdersAddress p b {
+    font-family: "Sweet Sans Medium", "Arial", sans-serif
+}
+
+.myOrders table tbody tr > td > .col-xs-4 .myOrdersAddress .shippingDetails {
+    position: absolute;
+    bottom: -30px;
+    right: 15px;
+    color: #6e6e6e;
+    text-decoration: underline;
+    padding: 0 5px
+}
+
+.myOrders table tbody tr > td > .col-xs-4 .myOrdersAddress .shippingDetails:hover {
+    color: #373737
+}
+
+.mac .myOrders table tbody tr td > .col-xs-4 .orderSummary .summaryWrapper button .entypo {
+    line-height: 10px
+}
+
+.mac .myOrders table tbody tr > td .entypo {
+    line-height: 9px
+}
