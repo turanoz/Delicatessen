@@ -1,16 +1,14 @@
-**KOCAELİ ÜNİVERSİTESİ**
+# KOCAELİ ÜNİVERSİTESİ
 
-**Web Tabanlı Alışveriş Sitesi Geliştirme**
+# Web Tabanlı Alışveriş Sitesi Geliştirme**
 
-Turan Öz, Ramazan KAPLANER
+**Turan Öz, Ramazan KAPLANER**
 
-Bilişim Sistemleri Mühendisliği
+**Bilişim Sistemleri Mühendisliği**
 
-Kocaeli Üniversitesi
+**[181307006@kocaeli.edu.tr](mailto:181307006@kocaeli.edu.tr)**
 
-[181307006@kocaeli.edu.tr](mailto:181307006@kocaeli.edu.tr)
-
-[181307024@kocaeli.edu.tr](mailto:181307024@kocaeli.edu.tr)
+**[181307024@kocaeli.edu.tr](mailto:181307024@kocaeli.edu.tr)**
 
 # Özet
 
