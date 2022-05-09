@@ -9,6 +9,7 @@
                 <div class="card-body">
 
                     <h4 class="card-title mb-4">Müşteriler</h4>
+
                     <div class="table-responsive">
                         <table class="table table-centered mb-0 align-middle table-hover table-nowrap">
                             <thead class="table-light">
