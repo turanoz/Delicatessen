@@ -1,6 +1,6 @@
 # KOCAELİ ÜNİVERSİTESİ
 
-# Web Tabanlı Alışveriş Sitesi Geliştirme**
+# Web Tabanlı Alışveriş Sitesi Geliştirme
 
 **Turan Öz, Ramazan KAPLANER**
 
