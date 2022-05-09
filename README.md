@@ -1,4 +1,4 @@
-KOCAELİ ÜNİVERSİTESİ
+**KOCAELİ ÜNİVERSİTESİ**
 
 **Web Tabanlı Alışveriş Sitesi Geliştirme**
 
@@ -12,15 +12,15 @@ Kocaeli Üniversitesi
 
 [181307024@kocaeli.edu.tr](mailto:181307024@kocaeli.edu.tr)
 
-Özet
+# Özet
 
 Bu projenin amacı, kullanıcıların web üzerinden ihtiyaçları doğrultularında alışveriş yapmaları için web tabanlı alışveriş sitesi geliştirmektir. Çalışmanın veri tabanı alt yapısını MYSQL kullanılmış olup web programlama bölümü ise Laravel Framework ile gerçekleştirilmiştir. Projenin sonunda kullanıcıların güvenli ve sorunsuz bir şekilde alışveriş yapmaları sağlanmaktadır.
 
-Abstract
+# Abstract
 
 This study is a web-based shopping site development project that enables customers to shop on the web and mobile in line with their needs. In the designed web-based application, users are provided with safe and trouble-free shopping. The database infrastructure of the study was MYSQL and the web programming part was carried out with Laravel Framework.
 
-1.Giriş
+# 1.Giriş
 
 İnternet iş yapmayı çok daha kolay ve hızlı hale getiriyor. Çevrimiçi alışverişe veya e-ticarete yönelik dünya çapında hızla büyüyen bir eğilimle insanların iş yapma biçiminde değişikliklere yol açtı. Dünya çapında pek çok insan, kendi ülkelerinde bulamadıkları veya satın almaları mümkün olmayan birçok marka ve şirketten online alışveriş yapmayı ve satın almayı tercih ediyor. Günümüzde, yeni teknolojinin ve internetin de desteğiyle, dünyanın her yerinden insanlar evlerinde oturarak çevrimiçi ürün satın almaya başladılar. Web üzerinden ürün satın almak çok kolay bir iş haline geldi. Yaşlılar, çok yoğun bir yaşam programı olan insanlar ürünü alışveriş sepetine kaydedip daha sonra satın alabilmesi ile müşterilerine oldukça konforlu bir hizmet sunmaktadır.
 
